@@ -11,7 +11,7 @@
 ## Cart Page
 ![This is Cart Page!](img/Picture4.png "Cart Page")
 ## Checkout Page
-![This is Checkout Page!](img/Picture5.png Checkout Page")
+![This is Checkout Page!](img/Picture5.png "Checkout Page")
 ## Order list page
 ![This is Order List!](img/Picture8.png "Order list")
 ## Detail order page
