@@ -1,10 +1,18 @@
 # Food
 
-#update-database
+#Some pictures related to the project.
 
-## Item Food (250x300) (150x150)
-## Adds (1170x170)
-## Post (450x450)
-## Avatar (150x150)
-## Categories (450x150) (300x220)
-## Banner Contact (1920x300)
+## Home Page
+![This is Home Page!](img/Picture1.png "Home Page")
+## List Product Page
+![This is List Product!](img/Picture2.png "List Product")
+## Contact Page
+![This is Contact Page!](img/Picture3.png "Contact")
+## Cart Page
+![This is Cart Page!](img/Picture4.png "Cart Page")
+## Checkout Page
+![This is Checkout Page!](img/Picture5.png Checkout Page")
+## Order list page
+![This is Order List!](img/Picture8.png "Order list")
+## Detail order page
+![This is Detail order!](img/Picture9.png "Detail order")
